@@ -1,4 +1,6 @@
 
+INSTRUCCIONES INSTALACION KARATE
+
 Primero, necesitará tener instalado Visual Studio Code . Ábralo antes de ir al siguiente paso.
 
     Tenga en cuenta que hay una manera aún más fácil de ejecutar su primera prueba de Karate usando GitHub Codespaces , y no necesita instalar nada.
@@ -37,6 +39,10 @@ Agregar una afirmación
 ¡Las aserciones son la parte más importante de cualquier prueba y especialmente de las pruebas API! Karate hace que la validación de las cargas útiles de JSON sea muy fácil.
 
 https://github.com/karatelabs/karate/wiki/Get-Started:-Visual-Studio-Code
+
+
+
+
 
 
 
