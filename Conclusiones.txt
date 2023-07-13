@@ -1,0 +1,4 @@
+- Karate es una herramienta de código abierto, fácil de manejar para personas que no poseen 
+  conocimientos de programación. Esta herramienta combina la automatización de API y las pruebas
+  de rendimiento en un marco único.
+
