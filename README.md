@@ -1,3 +1,12 @@
+EJERCICIO:
+ 
+La página https://petstore.swagger.io/ proporciona la documentación sobre apis de una “PetStore”.Utilizando un software para pruebas de servicios REST realizar las siguientes pruebas, identificando las entradas, capturando las salidas, test, variables, etc, en cada uno de los siguientes casos:
+ 
+• Crear un usuario
+• Buscar el usuario creado
+• Actualizar el nombre y el correo del usuario
+• Buscar el usuario actualizado
+• Eliminar el usuario
 
 INSTRUCCIONES INSTALACION KARATE
 
