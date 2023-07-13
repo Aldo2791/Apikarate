@@ -2,3 +2,8 @@
   conocimientos de programación. Esta herramienta combina la automatización de API y las pruebas
   de rendimiento en un marco único.
 
+- Las pruebas de API han ido obteniendo más reconocimiento durante los últimos cinco años. Es una herramienta necesaria para casi cualquier equipo de pruebas de un producto, y se utiliza tanto para tareas básicas tales como la carga de una imagen como para tareas complejas tales como los procesos de pago.
+
+- Esencialmente las API son una colección de métodos y funciones que permiten desarrollar aplicaciones. Las API funcionan como mensajeros entre las personas y el proveedor de servicios, recibiendo las peticiones y respondiendo con un resultado, funcionan como intermediarios entre varios sistemas de software. Permiten la comunicación entre dos programas que no están conectados. Obtienen acceso a la información y las funciones de los distintos programas o sistemas operativos.
+
+- Con los servicios REST se puso realizar las siguientes pruebas, identificando entradas, salidas, test, variables, en los siguientes casos, creacion de usuario, busqueda del usuario creado, actualizacion de del nombre y correo, busqueda del usuario actualizado y eliminacion de usuario. Como se visualiza los 5 escenarios procesados en las capturas del reporte generado del archivo adjunto ¨Capturas reporte.docx¨  
